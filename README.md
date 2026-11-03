@@ -8,8 +8,8 @@ A video–language retrieval and temporal localization project that connects **t
 
 <br>
 
-<!-- Replace this banner with a real project screenshot or pipeline figure saved in assets/images/hero.png -->
-<img src="assets/images/hero.png" alt="Unified Video-Text Grounding System banner" width="92%">
+<!-- Banner illustration included in this repository at assets/images/hero.svg -->
+<img src="assets/images/hero.svg" alt="Unified Video-Text Grounding System banner" width="92%">
 
 <br>
 
@@ -147,20 +147,20 @@ Store project-specific screenshots, diagrams, and result plots in `assets/images
 
 ### 🔄 Pipeline overview
 
-<!-- Add a real pipeline diagram at assets/images/pipeline.png -->
-<img src="assets/images/pipeline.png" alt="Video-text grounding pipeline" width="90%">
+<!-- Conceptual workflow illustration included at assets/images/pipeline.svg -->
+<img src="assets/images/pipeline.svg" alt="Video-text grounding pipeline" width="90%">
 
 ### 📍 Temporal localization example
 
-<!-- Add a real prediction visualization at assets/images/temporal-localization.png -->
-<img src="assets/images/temporal-localization.png" alt="Example temporal localization result" width="90%">
+<!-- Illustrative timeline included at assets/images/temporal-localization.svg -->
+<img src="assets/images/temporal-localization.svg" alt="Example temporal localization result" width="90%">
 
 ### 📈 Experimental results
 
-<!-- Add a real results chart or table screenshot at assets/images/results.png -->
-<img src="assets/images/results.png" alt="Experimental results" width="90%">
+<!-- Results documentation guide included at assets/images/results.svg -->
+<img src="assets/images/results.svg" alt="Experimental results" width="90%">
 
-> The image paths above are placeholders until matching image files are added. If these files do not exist yet, upload your actual figures or remove the corresponding image tags to avoid broken images.
+> These SVGs are conceptual illustrations included in this repository. They are not actual model predictions or measured experimental results.
 
 ---
 
