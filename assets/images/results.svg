@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="355" viewBox="0 0 1200 355">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#101827"/><stop offset="100%" stop-color="#203b5b"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#35d0ba"/><stop offset="100%" stop-color="#6ea8fe"/></linearGradient>
+</defs>
+<rect width="100%" height="100%" rx="28" fill="url(#bg)"/>
+<circle cx="1080" cy="45" r="180" fill="#35d0ba" opacity=".08"/>
+<circle cx="70" cy="340" r="170" fill="#6ea8fe" opacity=".08"/>
+<text x="64" y="84" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="700" fill="#ffffff">Experimental reporting checklist</text>
+<text x="66" y="126" font-family="Inter,Arial,sans-serif" font-size="19" fill="#c8d7e8">Use reproducible numbers and settings from the project report.</text>
+
+<g font-family="Arial,sans-serif">
+ <rect x="70" y="165" width="1060" height="135" rx="18" fill="#182a40" stroke="#42617f"/>
+ <text x="100" y="205" font-size="22" font-weight="700" fill="#ffffff">Results to document</text>
+ <text x="100" y="241" font-size="17" fill="#c8d7e8">Dataset + split</text>
+ <text x="340" y="241" font-size="17" fill="#c8d7e8">Metric / threshold</text>
+ <text x="625" y="241" font-size="17" fill="#c8d7e8">Reported score</text>
+ <text x="875" y="241" font-size="17" fill="#c8d7e8">Checkpoint / setup</text>
+ <path d="M100 263 H1090" stroke="#42617f" stroke-width="2" stroke-dasharray="6 7"/>
+ <text x="100" y="287" font-size="14" fill="#91a9c3">Replace this guide with actual experimental results from the notebook/report.</text>
+</g>
+</svg>
