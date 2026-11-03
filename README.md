@@ -485,19 +485,6 @@ Then open **👉 http://localhost:5173** and drop in a document.
 
 ---
 
-<a id="team"></a>
-## 👥 Team
-
-Built for the **Computer Vision** course, Department of Computer Science, **Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)**.
-
-| 🧑‍🎓 | Name |
-|:-:|---|
-| 🌟 | **Arkaprava Jas** |
-| 🌟 | **Manas Mondal** |
-| 🌟 | **Anindya Midhey** |
-| 🌟 | **Srijan Sarkar** |
-
----
 
 <a id="credits"></a>
 ## 🙏 Credits & References
